@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-base.olvid",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication"],
+	"alias": ["olvid", "keycloak"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://doc.bot.olvid.io/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://doc.bot.olvid.io/n8n"
+			}
+		]
+	}
+}
