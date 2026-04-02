@@ -35,7 +35,7 @@
 			"dist/credentials/OlvidKeycloak.credentials.js"
 		],
 		"nodes": [
-			"dist/nodes/OlvidKeycloak/Keycloak.node.js"
+			"dist/nodes/OlvidKeycloak/OlvidKeycloak.node.js"
 		]
 	},
 	"devDependencies": {
