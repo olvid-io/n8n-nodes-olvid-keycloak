@@ -23,8 +23,7 @@
 		"dev": "n8n-node dev",
 		"lint": "n8n-node lint",
 		"lint:fix": "n8n-node lint --fix",
-		"release": "n8n-node release",
-		"prepublishOnly": "n8n-node prerelease"
+		"release": "n8n-node release"
 	},
 	"files": [
 		"dist"
@@ -36,7 +35,7 @@
 			"dist/credentials/OlvidKeycloak.credentials.js"
 		],
 		"nodes": [
-			"dist/nodes/Keycloak/Keycloak.node.js"
+			"dist/nodes/OlvidKeycloak/Keycloak.node.js"
 		]
 	},
 	"devDependencies": {
